@@ -143,3 +143,9 @@ html {
     top: 4px;
     box-shadow: 0px 0px #d3545d;
 }
+
+#extension{
+    height: 150px;
+    width: 300px;
+    margin: auto;
+}
